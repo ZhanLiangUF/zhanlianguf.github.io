@@ -27,7 +27,8 @@ function generateReducer<T>(
       return items
     }
 
-
 }
 
 ```
+
+This can even be further refined with a middle layer function that can generate different type of reducers based on a certain condition.
