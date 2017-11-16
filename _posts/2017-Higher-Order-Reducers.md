@@ -15,7 +15,7 @@ This is just a very contrived example that might be used to update a list on a m
 function generateReducer<T>(
   newObj: T
 ): (data: T, prev: Record<string, any>) => any {
-    
+
     return (data: T, prev: Record<string, any> => {
       const items = prev;
       const itemIndex = items.findIndex(item => item.id === data.id);
