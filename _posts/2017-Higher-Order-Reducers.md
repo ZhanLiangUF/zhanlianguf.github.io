@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Higher Order Reducers
-permalink: Higher-Order-Reducers
+permalink: /Higher-Order-Reducers
 published: true
 ---
 
