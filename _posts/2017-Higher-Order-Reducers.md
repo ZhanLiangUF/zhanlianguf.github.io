@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Higher Order Reducers
+permalink: Higher-Order-Reducers
+published: true
 ---
 
 This post is mainly about higher order reducers - which are basically a function that takes in a action and state and returns a new state. Here is a link if you're unfamiliar with reducers - https://redux.js.org/docs/basics/Reducers.html
