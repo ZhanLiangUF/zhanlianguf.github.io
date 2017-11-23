@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Higher Order Reducers
+excerpt: Higher Order Reducers
 permalink: /Higher-Order-Reducers
 published: true
 ---
