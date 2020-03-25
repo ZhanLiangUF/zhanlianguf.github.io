@@ -26,3 +26,8 @@ Vegan Apple Cinnamon Bread Recipe:
 15. Add 120g all purpose flour
 
 16. Bake at 350 for 60 minutes (Can extend 10 more minutes if you want a crunchier and more bread-like)
+
+
+Nutritional Information:
+- 1584 Calories for the whole bread(21.4 ounces)
+- 176 Calories if sliced into 9 slices(2.37 ounces each)
