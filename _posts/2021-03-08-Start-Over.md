@@ -2,7 +2,7 @@
 layout: post
 excerpt: Start Over
 permalink: /Start Over
-published: false
+published: true
 ---
 
 
@@ -12,6 +12,6 @@ After I got laid off, I was in denial and kept trying to apply to jobs with this
 
 After this event, I started to expand my hunt for new passions. From becoming a coffee connoisseur to starting a ASMR channel on Youtube, I realize that it is ok to not be sure what you want to do. Not only did this sabbatical allow me to learn new skills, I have been able to question and affirm my own values. 
 
-As I write this blog today, I'm finally coming to peace with everything that has happened and I'm ready to start over. I've finally started to open my heart to engineering by coding with technologies that I enjoy. Working with golang, kubernetes, and docker has reignited my passion in engineering. Along with passion, I have bought my own values to my job search. I want to believe in the company's mission that I work with. 
+As I write this blog today, I'm finally coming to peace with everything that has happened and I'm ready to start over. I've finally started to open my heart to engineering and people by coding with technologies that I enjoy. Working with golang, kubernetes, and docker has reignited my passion in engineering. Along with passion, I have bought my own values to my job search. I want to believe in the company's mission that I work with. 
 
 Fighting.
